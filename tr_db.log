@@ -1,0 +1,10 @@
+  CREATE_STREAM @0 {NAME:w_seq T:Transactions SCOPE:uvm_test_top.env.w_agt.sqr STREAM:817}
+  CREATE_STREAM @485 {NAME:r_seq T:Transactions SCOPE:uvm_test_top.env.r_agt.sqr STREAM:1212}
+  CREATE_STREAM @0 {NAME:w_seq T:Transactions SCOPE:uvm_test_top.env.w_agt.sqr STREAM:817}
+  CREATE_STREAM @485 {NAME:r_seq T:Transactions SCOPE:uvm_test_top.env.r_agt.sqr STREAM:1212}
+  CREATE_STREAM @0 {NAME:w_seq T:Transactions SCOPE:uvm_test_top.env.w_agt.sqr STREAM:817}
+  CREATE_STREAM @485 {NAME:r_seq T:Transactions SCOPE:uvm_test_top.env.r_agt.sqr STREAM:1212}
+  CREATE_STREAM @0 {NAME:w_seq T:Transactions SCOPE:uvm_test_top.env.w_agt.sqr STREAM:817}
+  CREATE_STREAM @679 {NAME:r_seq T:Transactions SCOPE:uvm_test_top.env.r_agt.sqr STREAM:1212}
+  CREATE_STREAM @0 {NAME:w_seq T:Transactions SCOPE:uvm_test_top.env.w_agt.sqr STREAM:817}
+  CREATE_STREAM @679 {NAME:r_seq T:Transactions SCOPE:uvm_test_top.env.r_agt.sqr STREAM:1212}
